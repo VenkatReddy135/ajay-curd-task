@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`View Component Testing renders a snapshot 1`] = `
+<div>
+  <form
+    className="CustomForm"
+  >
+    <div
+      className="container border border-info p-4 mt-4"
+    >
+      <h2>
+         Details:
+      </h2>
+      <div
+        className="row"
+      >
+        <div
+          className="col-4"
+        >
+          <label>
+            Employee Name:
+          </label>
+          <input
+            className="border-0 form-control inputWidth"
+            placeholder=""
+            type="text"
+          />
+        </div>
+        <div
+          className="col-4"
+        >
+          <label>
+            Employee Age:
+          </label>
+          <input
+            className="border-0 form-control inputWidth"
+            placeholder=""
+            type="text"
+          />
+        </div>
+        <div
+          className="row"
+        >
+          <div
+            className="col"
+          >
+            <label>
+              Employee Salary:
+            </label>
+            <input
+              className="border-0 form-control inputWidth"
+              placeholder=""
+              type="text"
+            />
+          </div>
+        </div>
+        <div
+          className="row"
+        >
+          <button
+            className="button btn btn-secondary backButton"
+            onClick={[Function]}
+          >
+            Back
+          </button>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+`;

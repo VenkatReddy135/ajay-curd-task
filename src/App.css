@@ -1,0 +1,32 @@
+.searchField {
+  width: 40%;
+}
+.marginClass {
+  margin-top: 1em;
+}
+.marginLeftClass {
+  margin-left: 1em;
+}
+.alignItems {
+  align-items: flex-start;
+}
+.inputWidth {
+  width: 70%;
+}
+.backButton {
+  width: 25%;
+  margin-top: 2em;
+  margin-left: 0.9em;
+}
+tr.boxShadowClass {
+  background-color: whitesmoke;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
